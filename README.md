@@ -184,14 +184,6 @@ Server will be available at `http://localhost:8000`.
 
 ---
 
-## Running the Tests
-
-```bash
-npm test
-```
-
----
-
 ## API Endpoints
 
 ### Movies
