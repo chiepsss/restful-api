@@ -165,7 +165,7 @@ restful-api/
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/chiepsss/restful-api.git
 cd restful-api
 
 # 2. Install dependencies
